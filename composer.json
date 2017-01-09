@@ -22,7 +22,7 @@
         "email": "mmorozovm@gmail.com",
         "source": "https://github.com/m1x0n/helpscout-docs-api-php"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "require": {
         "php": ">=5.5.0",
         "guzzlehttp/guzzle": "^6.2"
