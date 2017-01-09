@@ -1,5 +1,6 @@
 {
     "name": "rcaweb/helpscout-docs-api-php",
+    "version": "1.0.0",
     "type": "library",
     "description": "API client for the Help Scout Docs API",
     "keywords": ["api", "api-client", "docs", "docs-api", "helpscout"],
