@@ -13,7 +13,7 @@ Requirements
 Installation
 --------------------
 ```
-composer require m1x0n/helpscout-docs-api-php
+composer require rcaweb/helpscout-docs-api-php
 ```
 
 Example Usage:
