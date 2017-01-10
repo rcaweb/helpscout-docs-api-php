@@ -1,6 +1,6 @@
 {
     "name": "rcaweb/helpscout-docs-api-php",
-    "version": "dev-master",
+    "version": "1.0.1",
     "type": "library",
     "description": "API client for the Help Scout Docs API",
     "keywords": ["api", "api-client", "docs", "docs-api", "helpscout"],
@@ -23,7 +23,7 @@
         "email": "mmorozovm@gmail.com",
         "source": "https://github.com/m1x0n/helpscout-docs-api-php"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "1.0.0",
     "repositories": [
         {
           "type": "library",
