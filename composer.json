@@ -5,7 +5,7 @@
     "type": "library",  
     "repositories": [  
         {  
-            "type": "library",  
+            "type": "vcs",  
             "url": "https://github.com/m1x0n/helpscout-docs-api-php"  
         }  
     ],  
