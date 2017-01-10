@@ -1,6 +1,5 @@
 {  
     "name": "rcaweb/helpscout-docs-api-php",
-    "version:" "dev-master",
     "description": "API client for the Help Scout Docs API",  
     "license": "MIT",  
     "type": "library",  
