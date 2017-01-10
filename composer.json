@@ -1,5 +1,6 @@
 {
     "name": "rcaweb/helpscout-docs-api-php",
+    "version": "dev-master",
     "repositories": [  
         {  
             "type": "library",  
