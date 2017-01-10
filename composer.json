@@ -45,5 +45,5 @@
         "type": "vcs",
         "url": "https://github.com/rcaweb/helpscout-docs-api-php"
         }
-],
+    ]
 }
